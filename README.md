@@ -82,7 +82,7 @@ Real-time syncing, persistent notes app with Jest tests and custom hooks.
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shivam-kumar-08242a1a8/" target="_blank">
+<a href="https://www.linkedin.com/in/shivam-void/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
