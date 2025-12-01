@@ -77,15 +77,6 @@ Real-time syncing, persistent notes app with Jest tests and custom hooks.
 
 ---
 
-## 📊 GitHub Insights (Premium Layout)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam-181&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-181&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="left">
