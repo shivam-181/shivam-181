@@ -28,7 +28,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
+
 
 ### **Backend & Databases**
 <p align="left">
