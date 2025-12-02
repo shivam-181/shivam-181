@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Premium Edition)
+## 🛠️ Tech Stack
 
 ### **Frontend**
 <p align="left">
