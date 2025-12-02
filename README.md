@@ -11,8 +11,7 @@
 
 ## ✨ About Me
 
-- 🎓 Final-year **Computer Science** student  
-- 🔭 Currently building **ScoreX – A Real-Time Football Analytics Platform**  
+- 🎓 Final-year **Computer Science** student   
 - 💻 Tech Stack I love working with: **Next.js, TypeScript, Prisma, Supabase, Node.js**  
 - 🧠 Solved **200+ Data Structure & Algorithm Problems** on LeetCode  
 - 🎨 Passionate about building smooth UI/UX with Framer Motion & Tailwind  
@@ -28,7 +27,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
 
@@ -47,6 +45,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
