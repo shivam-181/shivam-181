@@ -5,6 +5,9 @@
 <p align="center">
   <b>Full Stack Developer • Next.js Engineer • UI/UX Focused Builder</b><br/>
   Passionate about crafting high-performance, scalable, and intelligently designed web applications.
+  <br/>
+  🔗 <a href="https://shivam-void.vercel.app/">Portfolio</a> • 
+  📄 <a href="https://drive.google.com/file/d/1b0-WxfPocDXE6KPV2kjIXQVGzeYAFyPo/view?usp=sharing">Resume</a>
 </p>
 
 ---
@@ -29,7 +32,6 @@
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 </p>
 
-
 ### **Backend & Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -45,7 +47,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
@@ -81,6 +83,15 @@ Real-time syncing, persistent notes app with Jest tests and custom hooks.
 ## 🤝 Connect with Me
 
 <p align="left">
+
+<a href="https://shivam-void.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://drive.google.com/file/d/1b0-WxfPocDXE6KPV2kjIXQVGzeYAFyPo/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/shivam-void/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
@@ -92,6 +103,7 @@ Real-time syncing, persistent notes app with Jest tests and custom hooks.
 <a href="https://leetcode.com/u/Shivam6703" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
 </a>
+
 </p>
 
 ---
