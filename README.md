@@ -88,7 +88,7 @@ Real-time syncing, persistent notes app with Jest tests and custom hooks.
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://drive.google.com/file/d/1b0-WxfPocDXE6KPV2kjIXQVGzeYAFyPo/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1PWixrho8xUeC9hbwX-WUMKq4Gik5WsIu/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white" />
 </a>
 
