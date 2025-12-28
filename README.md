@@ -7,7 +7,7 @@
   Passionate about crafting high-performance, scalable, and intelligently designed web applications.
   <br/>
   🔗 <a href="https://shivam-void.vercel.app/">Portfolio</a> • 
-  📄 <a href="https://drive.google.com/file/d/1b0-WxfPocDXE6KPV2kjIXQVGzeYAFyPo/view?usp=sharing">Resume</a>
+  📄 <a href="https://drive.google.com/file/d/1PWixrho8xUeC9hbwX-WUMKq4Gik5WsIu/view?usp=sharing">Resume</a>
 </p>
 
 ---
